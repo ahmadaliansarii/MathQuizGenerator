@@ -1,4 +1,4 @@
-# Math Quiz Game
+# Math Quiz Generator
 
 This is a simple console-based Math Quiz game implemented in C. Players can test their mathematical knowledge across different difficulty levels: Easy, Medium, and Hard. The game tracks the player's score and the time taken to complete the quiz.
 
